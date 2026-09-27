@@ -1,0 +1,3 @@
+# `sdk env install` installs these, `sdk env` switches to them; with sdkman_auto_env=true a `cd` here does it.
+java=$java_version$
+sbt=$sbt_version$

@@ -1,0 +1,9 @@
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.bloop/
+
+# Metals writes this next to plugins.sbt.
+project/metals.sbt

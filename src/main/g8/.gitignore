@@ -1,0 +1,13 @@
+target/
+project/target/
+project/project/
+.bsp/
+.metals/
+.bloop/
+.cellar/
+.idea/
+.vscode/
+.scala-build/
+
+# Metals writes this next to plugins.sbt.
+project/metals.sbt

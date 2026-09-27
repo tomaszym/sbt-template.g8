@@ -1,0 +1,6 @@
+> test
+> scalafmtCheckAll
+> scalafmtSbtCheck
+> app/run 1 2 3
+> app/stage
+$ exists app/target/universal/stage/bin/my-project
